@@ -33,7 +33,7 @@ The degree of Gini impurity ranges from 0 to 1, with 0 indicating that all of th
 
 Information Gain = 1 – Entropy
 
-- I hope if this information helps you. 
+- I hope this information helps you. 
 - Thanks and Regards
 - Divyansh Palia
 
